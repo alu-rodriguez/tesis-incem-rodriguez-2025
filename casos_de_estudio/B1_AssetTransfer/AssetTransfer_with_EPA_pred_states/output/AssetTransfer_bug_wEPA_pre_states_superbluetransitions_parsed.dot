@@ -1,0 +1,12 @@
+digraph {
+S00 [label="Init"]
+S04 [label="makeOffer & terminate\n & !accept & pre_activated[e]"]
+S10 [label="!makeOffer & terminate\n & accept & pre_offerPlaced[e]"]
+S16 [label="!makeOffer & !terminate\n & !accept & pre_offerPlaced[e]"]
+S24 [label="!makeOffer & !terminate\n & !accept & pre_offerAccepted[e]"]
+
+S04->S10 [label="makeOffer", style="", color="blue"]
+S04->S16 [label="makeOffer", style="", color="blue"]
+S10->S24 [label="accept", style="", color="blue"]
+S00->S04 [label="constructor", style="", color="blue"]
+}

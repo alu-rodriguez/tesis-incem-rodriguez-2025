@@ -1,0 +1,6 @@
+Transition, Time (secs), Satisfiable
+blue_transition__S04__a__S10__mediante_met_makeOffer,485.184,false
+blue_transition__S04__a__S16__mediante_met_makeOffer,284.283,false
+blue_transition__S10__a__S24__mediante_met_accept,8.978,false
+blue_transition__S00__a__S04__mediante_met_constructor,42.063,false
+
