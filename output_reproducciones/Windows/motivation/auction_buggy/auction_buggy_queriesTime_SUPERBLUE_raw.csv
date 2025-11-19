@@ -1,0 +1,9 @@
+Transition, Time (secs), Satisfiable
+turquoise_transition__S07__a__S07_S12__mediante_met_withdraw,2.575,true
+turquoise_transition__S09__a__S02_S06__mediante_met_t,1.327,true
+turquoise_transition__S09__a__S02_S09__mediante_met_t,1.094,true
+turquoise_transition__S09__a__S06_S09__mediante_met_t,1.333,true
+turquoise_transition__S09__a__S02_S06_S09__mediante_met_t,-1.0,false
+turquoise_transition__S09__a__S02_S06_S09__mediante_met_t,120.012,false
+turquoise_transition__S02__a__S02_S06__mediante_met_withdraw,65.541,false
+

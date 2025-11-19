@@ -1,0 +1,12 @@
+Transition, Time (secs), Satisfiable
+transition__S01__a__S01__mediante_met_sendRequest,0.012,false
+transition__S00__a__S01__mediante_met_constructor,0.017,true
+transition__S02__a__S01__mediante_met_sendRequest,0.017,true
+transition__S02__a__S02__mediante_met_sendRequest,0.01,false
+transition__S01__a__S02__mediante_met_sendRequest,0.014,false
+transition__S00__a__S02__mediante_met_constructor,0.011,false
+transition__S01__a__S01__mediante_met_sendResponse,0.009,false
+transition__S02__a__S01__mediante_met_sendResponse,0.009,false
+transition__S02__a__S02__mediante_met_sendResponse,0.011,false
+transition__S01__a__S02__mediante_met_sendResponse,0.016,true
+

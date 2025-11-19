@@ -1,0 +1,8 @@
+Transition, Time (secs), Satisfiable
+turquoise_transition__S07__a__S07_S12__mediante_met_withdraw,4.437,false
+turquoise_transition__S25__a__S22_S25__mediante_met_t,2.061,false
+turquoise_transition__S20__a__S20_S25__mediante_met_withdraw,22.128,false
+turquoise_transition__S18__a__S18_S22__mediante_met_withdraw,1.801,false
+turquoise_transition__S25__a__S20_S25__mediante_met_bid,1.656,true
+turquoise_transition__S20__a__S18_S20__mediante_met_t,1.417,false
+

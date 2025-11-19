@@ -1,0 +1,8 @@
+Transition, Time (secs), Satisfiable
+blue_transition__S04__a__S07__mediante_met_choicePlayer2,158.762,false
+blue_transition__S07__a__S05__mediante_met_choicePlayer1,186.192,false
+blue_transition__S00__a__S04__mediante_met_constructor,8.693,false
+blue_transition__S06__a__S05__mediante_met_choicePlayer2,162.616,false
+blue_transition__S05__a__S05__mediante_met_determineWinner,1.116,false
+blue_transition__S04__a__S06__mediante_met_choicePlayer1,178.797,false
+
