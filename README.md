@@ -7,7 +7,7 @@ Departamento de Computación – FCEyN, Universidad de Buenos Aires (UBA), 2025.
 
 Este repositorio contiene los modelos Alloy, las ejecuciones experimentales y el documento final de la tesis titulada:
 
-> **Modal Abstractions for Smart-Contract Verification: Reproducción, Extensión y Análisis Experimental**
+> **Validación Experimental de Abstracciones Modales para Contratos Inteligentes**
 
 El trabajo se centra en reproducir los experimentos del paper original de **Godoy et al.** y extenderlos con nuevos casos de estudio creados específicamente para esta tesis.
 
@@ -101,7 +101,7 @@ Los datos bibliográficos completos se encuentran en la carátula de `tesis.pdf`
 
 ## 🌐 English Overview (EN) / Descripción en Inglés
 
-This repository contains the models, experimental artifacts, and final PDF for the undergraduate thesis *“Modal Abstractions for Smart-Contract Verification”* (written in **Spanish**) by **Matías Nicolás Incem** and **Alejandra Alicia Rodríguez**, Department of Computer Science, University of Buenos Aires (UBA), 2025.
+This repository contains the models, experimental artifacts, and final PDF for the undergraduate thesis *“Experimental Validation of Modal Abstractions for Smart Contracts”* (written in **Spanish**) by **Matías Nicolás Incem** and **Alejandra Alicia Rodríguez**, Department of Computer Science, University of Buenos Aires (UBA), 2025.
 
 The thesis work includes:
 
