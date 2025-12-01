@@ -1,0 +1,7 @@
+Metric,BLUE
+total_queries,12
+max_time(secs),279.303
+min_time(secs),1.431
+avg_time(secs),149.10508333333334
+total_time_outs,0
+total_time(secs),1789.2610000000002

@@ -1,0 +1,7 @@
+Metric,SUPERBLUE
+total_queries,2
+max_time(secs),59.955
+min_time(secs),54.232
+avg_time(secs),57.0935
+total_time_outs,0
+total_time(secs),114.187
