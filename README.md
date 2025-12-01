@@ -1,5 +1,7 @@
 # tesis-incem-rodriguez-2025
 
+## 🌐 Spanish Overview (ES) / Descripción en Español
+
 Tesis de licenciatura de **Matías Nicolás Incem** y **Alejandra Alicia Rodríguez**  
 Departamento de Computación – FCEyN, Universidad de Buenos Aires (UBA), 2025.
 
@@ -95,3 +97,40 @@ No aplica al PDF.
 Si utilizás este repositorio o parte de sus modelos, por favor citá la tesis según el formato de tu disciplina (APA, IEEE, ACM, etc.).  
 Los datos bibliográficos completos se encuentran en la carátula de `tesis.pdf`.
 
+---
+
+## 🌐 English Overview (EN) / Descripción en Inglés
+
+This repository contains the models, experimental artifacts, and final PDF for the undergraduate thesis *“Modal Abstractions for Smart-Contract Verification”* (written in **Spanish**) by **Matías Nicolás Incem** and **Alejandra Alicia Rodríguez**, Department of Computer Science, University of Buenos Aires (UBA), 2025.
+
+The thesis work includes:
+
+- A **reproduction** of the original benchmarks from Godoy et al. (SimpleMarket, AssetTransfer, RockPaperScissors, etc.) to validate Alloy4PA’s behavior against previously published results.
+- The design and execution of **new case studies**, created specifically for this thesis, to evaluate modal abstractions in additional scenarios involving business-logic flaws and parameter variations.
+
+### Repository structure (English summary)
+
+- **`casos_de_estudio/`**  
+  Contains the *new case studies* created by the authors. These include Alloy4PA models and buggy contract variants used to analyze must→may degradations, stuck states, and semantic robustness.
+
+- **`reproducciones/`**  
+  Contains the *replications of the original benchmarks*. These are the authors’ runs of the Alloy4PA experiments as described in Godoy et al., including performance data, logs, and generated may/must graphs.
+
+- **`tesis.pdf`**  
+  The full thesis document (*written in Spanish*).
+
+- **`LICENSE`**  
+  MIT License for the models and code.
+
+- **`THESIS_LICENSE.md`**  
+  Specific license terms for the thesis PDF.
+
+### Authors
+
+- **Matías Nicolás Incem** – Co-author of the thesis and experimental models.  
+- **Alejandra Alicia Rodríguez** – Co-author of the thesis and experimental models.
+
+### Citation
+
+If you use this repository or any of its models, please cite the thesis in your preferred academic style (APA, IEEE, ACM, etc.).  
+Bibliographic information is available in the cover page of `tesis.pdf`.
